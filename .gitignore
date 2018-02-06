@@ -1,2 +1,4 @@
 obj/
 bin/
+
+#run /dotnet restore/ and /dotnet run/ to generate these files 
